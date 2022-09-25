@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grocery Reminder</string>
+
+    <string name="add_items">add items</string>
+    <string name="item_qtn">Quantity: %s</string>
+    <string name="item_cost">Cost: ₹%s</string>
+    <string name="item_total">₹%s</string>
+</resources>
